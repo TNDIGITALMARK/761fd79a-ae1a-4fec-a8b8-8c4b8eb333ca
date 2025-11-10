@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "ARTIFEX - Creative Universe",
+  description: "Explore music, art, books, and blogs from a multi-talented creator. Join our vibrant community.",
 };
 
 export default function RootLayout({
